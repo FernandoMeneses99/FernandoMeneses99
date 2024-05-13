@@ -19,10 +19,10 @@
 <br>
 
 - Un apasionado desarrollador front-end autodidacta
-- Me gusta estudiar en mi tiempo libre
-- Actualmente aprendiendo Desarrollo Web por cuenta propia
-- Sitio web personal [Link](w3.com)
+- :computer: Me gusta estudiar en mi tiempo libre
+- Actualmente aprendiendo Desarrollo Web por cuenta propia.
 - Actualmente estoy abierto a una nueva oportunidad laboral, este es [mi currículum](https://fernandomeneses99.github.io/Mi-Portafolio/)
+- :thinking: Actualmente estoy abierto para un nuevo `job opportunity`, this is [MY RESUME](https://fernandomeneses99.github.io/Mi-Portafolio/).
 
 
 <br><br>
@@ -41,7 +41,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fernandomeneses99&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandomeneses99&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandomeneses99&theme=dark&hide_border=falso&mode=weekly" /> 
 </td>
 
 <td width="50%" align="center">
