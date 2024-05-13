@@ -116,6 +116,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![.NET](https://img.shields.io/badge/-.net-05122A?style=flat&logo=.net)
+![SQLSERVER](https://img.shields.io/badge/-sqlserver-05122A?style=flat&logo=.sqlserver)
 
 <br>
 <br>
