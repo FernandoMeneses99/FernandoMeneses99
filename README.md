@@ -117,6 +117,8 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
 ![.NET](https://img.shields.io/badge/-.net-05122A?style=flat&logo=.net)
 ![SQLSERVER](https://img.shields.io/badge/-sqlserver-05122A?style=flat&logo=.sqlserver)
+![CANVA](https://img.shields.io/badge/-canva-05122A?style=flat&logo=canva)
+![GIT](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 
 <br>
 <br>
