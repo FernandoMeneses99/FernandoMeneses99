@@ -25,12 +25,6 @@
 - Actualmente estoy abierto a una nueva oportunidad laboral, este es [mi currículum](https://fernandomeneses99.github.io/Mi-Portafolio/)
 
 
-<br>
-<br>
-<br>
-<br>
- 💰 &nbsp;Apoya mi Trabajo
-<a href="https://www.buymeacoffee.com/fernandome5"><img src="https://img.buymeacoffee.com/button-api/?text=Puedes Apoyarme&emoji=&slug=fernandome5&button_colour=FFDD00&font_colour=000000&font_family=Cómic&outline_colour=000000&coffee_colour=ffffff" /></a>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -152,3 +146,6 @@
 Creditos: [Fernando Meneses](https://github.com/FernandoMeneses99)
 
 Last Edited on: 13/05/2024
+
+### 💰 &nbsp;Support My Work
+[![BuyMeACoffee]<a href="https://www.buymeacoffee.com/fernandome5"><img src="https://img.buymeacoffee.com/button-api/?text=Puedes Apoyarme&emoji=&slug=fernandome5&button_colour=FFDD00&font_colour=000000&font_family=Cómic&outline_colour=000000&coffee_colour=ffffff" /></a>
