@@ -17,7 +17,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"/></p>
 
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Mi+Nombre+es+Omar+Meneses...;Tengo+24+años+...;Estudiante+de+Desarrollo+de+Software..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=30&center=false&lines=Mi+Nombre+es+Omar+Meneses...;Tengo+24+años+...;Soy+Estudiante+de+Desarrollo+de+Software..."/>
 
 - :thinking: Un apasionado desarrollador front-end autodidacta
 - :computer: Me gusta estudiar en mi tiempo libre
