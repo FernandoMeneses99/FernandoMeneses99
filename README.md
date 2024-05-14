@@ -63,7 +63,7 @@
 <br>
 
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50"><b> Github Estadisticas </b>
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50"><b> Software y Herramientas </b>
 <br>
 
 <div align="center">
