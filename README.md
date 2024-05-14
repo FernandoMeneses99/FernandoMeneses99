@@ -1,6 +1,6 @@
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Desarrollador+Front-End+Jr;HTML%20|%20PHP%20|%20CSS+ASP.NET;JAVA%20|%20JS%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Desarrollador+Front-End+Jr;HTML%20|%20PHP%20|%20CSS;ASP.NET;JAVA%20|%20JS%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
 	</a>
 </p>
 
