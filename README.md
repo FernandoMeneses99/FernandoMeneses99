@@ -18,10 +18,9 @@
 
 <br>
 
-- Un apasionado desarrollador front-end autodidacta
+- :thinking: Un apasionado desarrollador front-end autodidacta
 - :computer: Me gusta estudiar en mi tiempo libre
 - Actualmente aprendiendo Desarrollo Web por cuenta propia.
-- Actualmente estoy abierto a una nueva oportunidad laboral, este es [mi currículum](https://fernandomeneses99.github.io/Mi-Portafolio/)
 - :thinking: Actualmente estoy abierto para una `Oportunidad Laboral`, este es [Mi Currículum](https://fernandomeneses99.github.io/Mi-Portafolio/).
 
 
@@ -41,7 +40,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fernandomeneses99&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandomeneses99&theme=dark&hide_border=falso&mode=weekly" /> 
+  <img  title=" " alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandomeneses99&theme=dark&hide_border=falso&mode=weekly" /> 
 </td>
 
 <td width="50%" align="center">
@@ -95,7 +94,6 @@ Aquíe algo
 ![.NET](https://img.shields.io/badge/-.net-05122A?style=flat&logo=.net)
 ![SQLSERVER](https://img.shields.io/badge/-sqlserver-05122A?style=flat&logo=.sqlserver)
 ![CANVA](https://img.shields.io/badge/-canva-05122A?style=flat&logo=canva)
-![GIT](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 
 <br>
 <br>
@@ -119,7 +117,7 @@ Aquíe algo
 
 Creditos: [Fernando Meneses](https://github.com/FernandoMeneses99)
 
-Last Edited on: 13/05/2024
+Última edición: 13/05/2024
 
-### 💰 &nbsp;Support My Work
+### 💰 &nbsp;Apoya mi Trabajo
 <a href="https://www.buymeacoffee.com/fernandome5"><img src="https://img.buymeacoffee.com/button-api/?text=Puedes Apoyarme&emoji=&slug=fernandome5&button_colour=FFDD00&font_colour=000000&font_family=Cómic&outline_colour=000000&coffee_colour=ffffff" /></a>
