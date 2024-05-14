@@ -22,7 +22,7 @@
 - :computer: Me gusta estudiar en mi tiempo libre
 - Actualmente aprendiendo Desarrollo Web por cuenta propia.
 - Actualmente estoy abierto a una nueva oportunidad laboral, este es [mi currículum](https://fernandomeneses99.github.io/Mi-Portafolio/)
-- :thinking: Actualmente estoy abierto para un nuevo `Oportunidad Laboral`, este es [Mi Currículum](https://fernandomeneses99.github.io/Mi-Portafolio/).
+- :thinking: Actualmente estoy abierto para una `Oportunidad Laboral`, este es [Mi Currículum](https://fernandomeneses99.github.io/Mi-Portafolio/).
 
 
 <br><br>
@@ -66,11 +66,8 @@
 
 <div align="center">
 
-<a href="https://github.com/FernandoMeneses99/">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoMeneses99&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FernandoMeneses99&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="FernandoMeneses99"/>
+Aquíe algo
 
-</a>
 </div>
 
 <br>
