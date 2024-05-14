@@ -94,6 +94,8 @@ Aquíe algo
 ![.NET](https://img.shields.io/badge/-.net-05122A?style=flat&logo=.net)
 ![SQLSERVER](https://img.shields.io/badge/-sqlserver-05122A?style=flat&logo=.sqlserver)
 ![CANVA](https://img.shields.io/badge/-canva-05122A?style=flat&logo=canva)
+![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=XAMPP)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 
 <br>
 <br>
