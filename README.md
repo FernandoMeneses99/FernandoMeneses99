@@ -22,7 +22,7 @@
 - :computer: Me gusta estudiar en mi tiempo libre
 - Actualmente aprendiendo Desarrollo Web por cuenta propia.
 - Actualmente estoy abierto a una nueva oportunidad laboral, este es [mi currículum](https://fernandomeneses99.github.io/Mi-Portafolio/)
-- :thinking: Actualmente estoy abierto para un nuevo `job opportunity`, this is [MY RESUME](https://fernandomeneses99.github.io/Mi-Portafolio/).
+- :thinking: Actualmente estoy abierto para un nuevo `Oportunidad Laboral`, este es [Mi Currículum](https://fernandomeneses99.github.io/Mi-Portafolio/).
 
 
 <br><br>
