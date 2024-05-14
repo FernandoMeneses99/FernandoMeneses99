@@ -1,3 +1,9 @@
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Front-end+Desarrollador+Jr;HTML%20|%20PHP%20|%20C#+ASP.NET;CSS%20|%20JS%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+	</a>
+</p>
+
 
 <h1 align="center"><b>Hola , Soy Omar Meneses </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
