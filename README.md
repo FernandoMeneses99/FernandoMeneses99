@@ -20,8 +20,8 @@
 
 - :thinking: Un apasionado desarrollador front-end autodidacta
 - :computer: Me gusta estudiar en mi tiempo libre
-- Actualmente aprendiendo Desarrollo Web por cuenta propia.
-- :thinking: Actualmente estoy abierto para una `Oportunidad Laboral`, este es [Mi Currículum](https://fernandomeneses99.github.io/Mi-Portafolio/).
+- :nerd_face: Actualmente aprendiendo Desarrollo Web por cuenta propia.
+- :thinking: Estoy abierto para una `Oportunidad Laboral`, este es [Mi Currículum](https://fernandomeneses99.github.io/Mi-Portafolio/).
 
 
 <br><br>
