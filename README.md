@@ -1,11 +1,9 @@
+<h1 align="center"><b>Hola , Soy Omar Meneses </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Front-End+Jr;HTML%20|%20PHP%20|%20CSS;ASP.NET;JAVA%20|%20JS%20|%20BOOTSTRAP;&center=true&width=380&height=45">
 	</a>
 </p>
-
-
-<h1 align="center"><b>Hola , Soy Omar Meneses </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
