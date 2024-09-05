@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de Mi**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **Acerca de Mi**
 
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=30&center=false&lines=Mi+Nombre+es+Omar+Meneses...;Tengo+24+años+...;Soy+Estudiante+de+Desarrollo+de+Software..."/>
