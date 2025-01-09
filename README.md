@@ -14,7 +14,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **Acerca de Mi**
 
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=30&center=false&lines=Mi+Nombre+es+Omar+Meneses...;Tengo+24+años+...;Soy+Estudiante+de+Desarrollo+de+Software..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=30&center=false&lines=Mi+Nombre+es+Omar+Meneses...;Tengo+25+años+...;Soy+Estudiante+de+Desarrollo+de+Software..."/>
 
 - :thinking: Un apasionado desarrollador front-end autodidacta
 - :computer: Me gusta estudiar en mi tiempo libre
@@ -84,6 +84,7 @@
 ![CANVA](https://img.shields.io/badge/-canva-05122A?style=flat&logo=canva)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=XAMPP)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
+![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress)
 
 </div>
 
